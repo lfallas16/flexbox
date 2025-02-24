@@ -30,3 +30,12 @@
   
  
 }
+
+@media all and (min-width: 1200px) {
+    .rojo   
+          {float:left;
+          margin-right: 2% ;
+          width: 30%;
+          background-color: #3e423c;
+    }
+}
